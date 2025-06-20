@@ -2,7 +2,7 @@
 
 ## Pizze klasyczne
 
-<img src = "img/aldward-castillo-G6ptCJ_6NbA-unsplash.jpg" width = 300>
+<img src = "img/aldward-castillo-G6ptCJ_6NbA-unsplash.jpg" width = 350> <img src = "img/louis-hansel-G5cpmu-0OV8-unsplash.jpg" width = 350>
 
 |Lp. | Pizza:                                         |  Rozmiar: | 30cm | 50cm | 60cm |
 |----|------------------------------------------------|-----------|------|------|------|
