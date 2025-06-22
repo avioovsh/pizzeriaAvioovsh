@@ -18,6 +18,17 @@
 |10. | VESUVIO (sos, podwójny ser, szynka)             |           |35zł  |40zł   |45zł|
 
 
+## Pizze vege
+
+<img src = "img/samuel-regan-asante-Lphm_eo3EFk-unsplash.jpg" width = 350> 
+
+|Lp. | Pizza:                                         |  Rozmiar: | 30cm | 50cm | 60cm |
+|----|------------------------------------------------|-----------|------|------|------|
+|1. | MARGHERITA (sos, ser, oregano)                  |           |18zł  |22zł   |28zł|
+|2. | FUNGHI (sos, ser, pieczarki)                    |           |20zł  |25zł   |30zł|
+|3. | PEPPERONI (sos, mozzarella, pepperonii)         |           |25zł  |30zł   |35zł|
+|4. | CAPRICIOSSA vege (sos, mozzarella, pieczarki)|              |30zł  |35zł   |40zł|
+|5. | VESUVIO vege (sos, podwójny ser)             |              |35zł  |40zł   |45zł|
 
 
 ## Pizze premium
@@ -29,6 +40,17 @@
 |1. | MARGHERITA (sos, ser, oregano)                  |           |18zł  |22zł   |28zł|
 |2. | FUNGHI (sos, ser, pieczarki)                    |           |20zł  |25zł   |30zł|
 |3. | PEPPERONI (sos, mozzarella, pepperonii)         |           |25zł  |30zł   |35zł|
+
+
+## Sałatki
+
+<img src = "img/nick-fewings-CmDp-0bfk9s-unsplash.jpg" width = 350> 
+
+|Lp. | Sałatka:                                       |  Rozmiar: | mała | duża |
+|----|------------------------------------------------|-----------|------|------|
+|1. | CEZAR (sos, sałata, pomidor, oliwa z oliwek, oregano)    |  |18zł  |22zł  | 
+|2. | GRECKA (sos, ceula, sałata, sałata lodowa, oliwki, feta) |  |20zł  |25zł   |
+|3. | HISZPAŃSKA (sos, cebula, pomidor, mozzarella )          |   |25zł  |30zł   |
 
 
 ## sosy
