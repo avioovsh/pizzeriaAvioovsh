@@ -65,3 +65,9 @@
 |1. |Ostry| 3zł|
 |1. |BBQ| 3zł|
 |1. |Musztardowy| 3zł|
+
+## Dodatki
+
+1. Cukinia - 5zł
+2. Karczochy - 6zł
+3. Krewetki - 10zł
