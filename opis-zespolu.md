@@ -8,7 +8,7 @@ Nasz zespół to grupa która kocha pizzę . Jesteśmy w naszym rzemiośle artys
 ## Dostawca
 Jan Kowalski
 ## Grafik
-
+Joanna Ch
 ## Kucharz
 
 ## Obsługa
